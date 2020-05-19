@@ -24,8 +24,8 @@
         "ASPNETCORE_HTTPS_PORT": "44378"
       },
       "httpPort": 57421,
-      "sslPort": 44378,
-      "useSSL": true
+      "useSSL": true,
+      "sslPort": 44378
     },
     "Dashboard": {
       "commandName": "Project",
